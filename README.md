@@ -14,3 +14,6 @@ import numpy as np
 from sklearn.metrics import accuracy_score
 
 3. RUN PROGRAM IN JUPYTER NOTEBOOK
+
+
+# alalal
