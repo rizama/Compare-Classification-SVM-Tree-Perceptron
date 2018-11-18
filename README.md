@@ -1,17 +1,15 @@
 # Compare-Classification
 Comparing classifications using datasets is little learned, Perceptron, Three, SVM methods
 
-1. Install Dependencies : 
-Scikit-learn
-Numpy
+# Dependencies
+* Scikit-learn
+* Numpy
 
+# Usage
+RUN PROGRAM IN JUPYTER NOTEBOOK
+OR
+To run the demo code, after installing the dependencies, just run the following in terminal
+``python name_of_file.py``
 
-2. Import Dependencies : 
-from sklearn import tree
-from sklearn import svm
-from sklearn.neural_network import MLPClassifier
-import numpy as np
-from sklearn.metrics import accuracy_score
-
-3. RUN PROGRAM IN JUPYTER NOTEBOOK
-
+# Credits
+@Sirajology
